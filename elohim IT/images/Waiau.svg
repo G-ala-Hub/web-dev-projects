@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600px" height="1200px" viewBox="0 0 1600 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Waiau</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.701963545" y="9.09494702e-13" width="1600" height="1200"></rect>
+    </defs>
+    <g id="Patterns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Waiau">
+            <g transform="translate(-0.701964, -0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Background" fill="#DCDCDB" xlink:href="#path-1"></use>
+                <circle id="Shape" fill="#BFCBBA" mask="url(#mask-2)" cx="450.701964" cy="414" r="249"></circle>
+                <rect id="Shape" fill="#DC4618" mask="url(#mask-2)" transform="translate(1227.678960, 301.882761) rotate(-30.085651) translate(-1227.678960, -301.882761) " x="933.562944" y="261.805447" width="588.232032" height="80.1546282"></rect>
+                
+                
+                
+                <polygon id="Shape" fill="#849C9B" mask="url(#mask-2)" transform="translate(396.533266, 553.473203) rotate(54.016160) translate(-396.533266, -553.473203) " points="708.682161 497.343483 86.7985011 535.648417 83.0236905 609.602924 710.042841 582.839408"></polygon>
+                <ellipse id="Shape" fill="#849C9B" mask="url(#mask-2)" transform="translate(992.985169, 722.126961) rotate(-13.488436) translate(-992.985169, -722.126961) " cx="992.985169" cy="722.126961" rx="39.2583884" ry="39.0470098"></ellipse>
+             <polygon id="Shape" fill="#28203D" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(239.098950, 159.714229) rotate(-13.488436) translate(-239.098950, -159.714229) " points="187.897226 55.8049478 286.523548 265.400854 290.300673 263.623511 191.674352 54.027604"></polygon>
+                <polygon id="Shape" fill="#28203D" fill-rule="nonzero" mask="url(#mask-2)" points="262.818443 945.803551 78.8733123 1094.53777 81.4979836 1097.7838 265.443115 949.04958"></polygon>
+                <path d="M1206.23953,762.537566 L1206.23953,703.40228 L1210.83662,703.40228 L1210.83662,762.537566 L1269.97191,762.537566 L1269.97191,767.134656 L1210.83662,767.134656 L1210.83662,826.269942 L1206.23953,826.269942 L1206.23953,767.134656 L1147.10424,767.134656 L1147.10424,762.537566 L1206.23953,762.537566 Z" id="Shape" fill="#DC4618" mask="url(#mask-2)" transform="translate(1208.538075, 764.836111) rotate(-41.000000) translate(-1208.538075, -764.836111) "></path>
+                <path d="M171.149285,679.447322 L171.149285,648.995048 L173.5166,648.995048 L173.5166,679.447322 L203.968874,679.447322 L203.968874,681.814636 L173.5166,681.814636 L173.5166,712.266911 L171.149285,712.266911 L171.149285,681.814636 L140.697011,681.814636 L140.697011,679.447322 L171.149285,679.447322 Z" id="Shape" fill="#DC4618" mask="url(#mask-2)" transform="translate(172.332943, 680.630979) rotate(-41.000000) translate(-172.332943, -680.630979) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
